@@ -1,0 +1,44 @@
+.main-navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+}
+
+.navbar-logo {
+  height: 150px;
+
+}
+
+.navbar-links {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+
+  list-style-type: none;
+
+  color: white;
+
+
+}
+
+.navbar-about-image{
+  height: 150px;
+}
+
+.navbar-products-image{
+  height: 150px;
+}
+
+.navbar-contactUs-image{
+  height: 150px;
+}
+
+.navbar-orders-image{
+  height: 150px;
+}
+
+.navbar-merch-image{
+  height: 150px;
+}
